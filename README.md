@@ -105,7 +105,7 @@ Remote Only 的工作可促進:
 在大型科技公司，同一園區裡的人們現在經常進行視頻通話，而不是每次走10分鐘到另一棟大樓。
 
 繼續開發更多的方法來實現 Remote Only。一個例子是語音到文本轉換軟件的發展，[比打字更準確和更快]（http://tomtunguz.com/speech-more-accurate-faster-than-typing/），從而使書面溝通更容易，更有效。
-因爲閱讀[比聽力更快]（https://en.wikipedia.org/wiki/Words_per_minute#Reading_and_comprehension），現在，將語音轉換為文本然後發送給接收者閱讀，這種方式在一對一溝通中甚至一對多的溝通，相比打字輸入 + 閱讀已經更快了。
+因爲閱讀[比聽力更快](https://en.wikipedia.org/wiki/Words_per_minute#Reading_and_comprehension），現在，將語音轉換為文本然後發送給接收者閱讀，這種方式在一對一溝通中甚至一對多的溝通，相比打字輸入 + 閱讀已經更快了。
 
 ## Remote only 公司
 
